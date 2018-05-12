@@ -67,5 +67,10 @@ color:#4D9DE0;
 }
 
 .social:hover{
-color:#E1BC29;
+color:#E15554;
+}
+
+#contact {
+	text-align: center;
+	background-color: #6BF178;
 }
